@@ -1,0 +1,14 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: aliceblue;
+}
+
+.navigation{
+    background-color: rgb(110, 242, 242);
+    padding: 15px;
+}
+
+.navs{
+    border: 1.5px solid black;
+}
